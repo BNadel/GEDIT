@@ -1,0 +1,6 @@
+library(gplots)
+library(RColorBrewer)
+png("MouseHeatmap.png",1500,1500)
+predictions = read.table("MBAPredictions.tsv", header = TRUE, row.names = 1)
+heatmap.2(as.matrix(predictions), Rowv = TRUE, Colv = TRUE, trace = "none", col = brewer.pal(9, "Oranges"), margins = c(30,30), colsep = 0:dim(predictions)[2], rowsep = 0:dim(predictions)[1],cellnote = round(predictions,2),notecol = "black", key = FALSE, lhei = c(.5,4), lwid = c(.5,4), main = "Predicted Cell Compositions of Mouse Cells and Tissues", notecex = 2, cexRow = 1.9, cexCol = 2)
+dev.off()

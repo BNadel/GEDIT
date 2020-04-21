@@ -1,0 +1,68 @@
+	LAU125_TPM	LAU355_TPM	LAU1255_TPM	LAU1314_TPM
+Adipocytes	0	0	0	0
+Astrocytes	0.1024	0	0	0
+B-cells	0	0.9915	0.1767	1.0023
+Basophils	0	0.0432	0.0523	0
+CD4+ T-cells	0	0.1293	0.0561	0.1046
+CD4+ Tcm	0	0.1407	0.0408	0.1001
+CD4+ Tem	0	0.0908	0.1014	0.0907
+CD4+ memory T-cells	0	0.188	0.0874	0.1859
+CD4+ naive T-cells	0	0.1801	0	0.1535
+CD8+ T-cells	0	0.3318	0.2902	0.328
+CD8+ Tcm	0	0.3089	0.2949	0.3277
+CD8+ Tem	0	0.1188	0.1332	0.1417
+CD8+ naive T-cells	0	0.0128	0.0106	0.0111
+CLP	9e-04	0	0	0.0013
+CMP	0	0	0	0
+Chondrocytes	0.0581	0	0	0
+Class-switched memory B-cells	0	0.3253	0.0526	0.3077
+DC	0	0.0466	0.0085	0.0346
+Endothelial cells	0.0274	0	0	0
+Eosinophils	0	0.0033	0	0.003
+Epithelial cells	0	0	0	0
+Erythrocytes	0	0	0	0
+Fibroblasts	0	0	0	0
+GMP	0	0	0	3e-04
+HSC	0.0517	0	0.0035	0
+Hepatocytes	0	0	0	0
+Keratinocytes	0	0	0	0
+MEP	0.0082	0	0	0
+MPP	0	0	0	0
+MSC	0	0.0106	0	0
+Macrophages	0	0.0232	0.0898	0.0012
+Macrophages M1	0	0.0195	0.0672	0
+Macrophages M2	0	0.0057	0.0145	0
+Mast cells	0	0.0367	0.0055	0.0272
+Megakaryocytes	0	0	0	0
+Melanocytes	0.161	0	0.1928	0
+Memory B-cells	0	0.3229	0.0459	0.3228
+Mesangial cells	0	0	0	0
+Monocytes	0	0.0627	0.0158	0
+Myocytes	0.0071	0.0041	0	0.0017
+NK cells	0	0	0	0.0032
+NKT	0	0	0	0
+Neurons	0.0024	1e-04	0	1e-04
+Neutrophils	0	0	0	0
+Osteoblast	0.0742	0	0.0202	0
+Pericytes	0	3e-04	0	0.0023
+Plasma cells	0	0.0427	0.0056	0.0788
+Platelets	0.0028	1e-04	0	5e-04
+Preadipocytes	0	0	0.0074	0
+Sebocytes	0	0	0	0
+Skeletal muscle	0	0	0	0
+Smooth muscle	0.5621	0	0.3084	0.0473
+Tgd cells	0	0.032	0.0089	0.0499
+Th1 cells	0	0	0.0295	0
+Th2 cells	0	0	0.0308	0.067
+Tregs	0	0.0394	0.0592	0.0447
+aDC	0	0.2026	0.2189	0.0535
+cDC	0	0.2898	0.0176	0.2154
+iDC	0	0.5031	0	0.3006
+ly Endothelial cells	0.0013	0	0	0
+mv Endothelial cells	0	0	0	0
+naive B-cells	0	0.1636	0.0262	0.1691
+pDC	0	0.2269	0.0816	0.1818
+pro B-cells	0	0.0553	0	0.0791
+ImmuneScore	0	1.0834	0.4284	1.0027
+StromaScore	0.0137	0	0	0
+MicroenvironmentScore	0.0137	1.0834	0.4284	1.0027

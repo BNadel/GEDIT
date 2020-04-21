@@ -1,0 +1,7 @@
+args = commandArgs(TRUE)
+MixMat = read.table(args[1], header = TRUE, row.names = 1, sep = ",")
+Props = read.table(args[2])
+OutFile = args[3]
+
+Out = as.matrix(MixMat) %*% t(Props)
+write.table(as.data.frame(Out), file = OutFile, quote = FALSE, sep = ",")

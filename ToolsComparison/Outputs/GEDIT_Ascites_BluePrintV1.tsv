@@ -1,0 +1,7 @@
+CD4.positive..alpha.beta.T.cell	CD14.positive..CD16.negative.classical.monocyte	mature.neutrophil	cytotoxic.CD56.dim.natural.killer.cell	memory.B.cell	CD38.negative.naive.B.cell	macrophage	memory.CD4.positive.alpha.beta.T.cell	memory.CD8.positive.alpha.beta.T.cell
+ascites7873R1	0.0635	0.164	0.1244	0.0883	0.1082	0.0421	0.1676	0.122	0.1197
+ascites7873R2	0.0672	0.1639	0.1224	0.073	0.1206	0.0328	0.1706	0.1237	0.1258
+ascites7882R1	0.0532	0.1426	0.1275	0.0857	0.1268	0.0375	0.1827	0.1448	0.0992
+ascites7882R2	0.0599	0.1313	0.1371	0.0939	0.1264	0.0387	0.164	0.1519	0.0967
+ascites7892R1	0.0601	0.1439	0.1392	0.087	0.1206	0.0399	0.1613	0.1604	0.0876
+ascites7892R2	0.06	0.132	0.1447	0.0761	0.1177	0.0409	0.1639	0.1534	0.1114

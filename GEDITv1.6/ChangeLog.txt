@@ -1,0 +1,11 @@
+HandleInput Line 92:
+	caused error when elements of row are float instead of string; added inline
+	list converting each element to string, needs to be tested.
+	Perhaps also be better to exclude, run anyway and throw warning?
+
+Made change so that GLMDECON works on (including 1)
+	May want to double check for V1.7
+
+Now allows the user to specify output file using -out
+
+Will now work when run from any directory

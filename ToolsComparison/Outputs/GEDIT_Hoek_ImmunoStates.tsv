@@ -1,0 +1,9 @@
+CD14_positive_monocyte	CD16_positive_monocyte	CD4_positive_alpha_beta_T_cell	CD56bright_natural_killer_cell	CD56dim_natural_killer_cell	CD8_positive_alpha_beta_T_cell	MAST_cell	basophil	eosinophil	gamma_delta_T_cell	hematopoietic_progenitor	macrophage_m0	macrophage_m1	macrophage_m2	memory_B_cell	myeloid_dendritic_cell	naive_B_cell	neutrophil	plasma_cell	plasmacytoid_dendritic_cell
+HD30PBMC0	0.3826	0	0.2216	0.1365	0.0186	0.184	0	0	0.0102	0	0	0	0	0	0	0	0.0465	0	0	0
+HD30PBMC1	0.4396	0.0151	0.1829	0.1108	0.0056	0.1838	0	0	0.0036	0	0	0	0	0	0	0	0.0503	0	0	0.0084
+HD30PBMC3	0.3272	0	0.2935	0.107	0.0068	0.2057	0	0	0.0194	0	0	0	0	0	0	0	0.0404	0	0	0
+HD30PBMC7	0.3022	0	0.2783	0.1114	0	0.2136	0	0	0.022	0	0	0	0	0	0	0	0.0689	0	0	0.0035
+HD31PBMC0	0.394	0	0.3071	0	0	0.1775	0	0	0.0106	0	0	0	0	0	0	0	0.0736	0.0373	0	0
+HD31PBMC1	0.3749	0	0.3446	0	0	0.1582	0	0	0.0286	0	0	0	0	0	0	0	0.0826	0.0112	0	0
+HD31PBMC3	0.3982	0	0.364	0	0	0.1754	0	0	0.0066	0	0	0	0	0	0	0	0.0559	0	0	0
+HD31PBMC7	0.3614	0	0.3581	0.0111	0	0.1911	0	0	0.0109	0	0	0	0	0	0	0	0.0673	0	0	0

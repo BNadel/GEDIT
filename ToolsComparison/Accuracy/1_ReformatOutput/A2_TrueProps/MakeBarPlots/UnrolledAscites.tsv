@@ -1,0 +1,22 @@
+Sample	Cell Type	Value
+Sample 1	NK	0.023
+Sample 1	T Cells	0.10014
+Sample 1	Monocytes	0.678
+Sample 1	Neutrophils	0.051
+Sample 1	B Cells	0.002
+Sample 1	Dendritic	0.033
+Sample 1	Unknown	0.11286
+Sample 2	NK	0.033
+Sample 2	T Cells	0.20138
+Sample 2	Monocytes	0.329
+Sample 2	Neutrophils	0.19
+Sample 2	B Cells	0
+Sample 2	Dendritic	0.026
+Sample 2	Unknown	0.22062
+Sample 3	NK	0
+Sample 3	T Cells	0.14789
+Sample 3	Monocytes	0.001
+Sample 3	Neutrophils	0.213
+Sample 3	B Cells	0
+Sample 3	Dendritic	0.017
+Sample 3	Unknown	0.62111

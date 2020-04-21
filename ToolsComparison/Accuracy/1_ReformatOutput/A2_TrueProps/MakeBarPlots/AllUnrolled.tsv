@@ -1,0 +1,179 @@
+Sample	Cell Type	Value
+Sample 1	NK	0.023
+Sample 1	T Cells	0.10014
+Sample 1	Monocytes	0.678
+Sample 1	Neutrophils	0.051
+Sample 1	B Cells	0.002
+Sample 1	Dendritic	0.033
+Sample 1	Unknown	0.11286
+Sample 2	NK	0.033
+Sample 2	T Cells	0.20138
+Sample 2	Monocytes	0.329
+Sample 2	Neutrophils	0.19
+Sample 2	B Cells	0
+Sample 2	Dendritic	0.026
+Sample 2	Unknown	0.22062
+Sample 3	NK	0
+Sample 3	T Cells	0.14789
+Sample 3	Monocytes	0.001
+Sample 3	Neutrophils	0.213
+Sample 3	B Cells	0
+Sample 3	Dendritic	0.017
+Sample 3	Unknown	0.62111
+Sample	Cell Type	Value
+Sample 1A	NK	0.023
+Sample 1A	T Cells	0.10014
+Sample 1A	Monocytes	0.678
+Sample 1A	Neutrophils	0.051
+Sample 1A	B Cells	0.002
+Sample 1A	Dendritic	0.033
+Sample 1A	Unknown	0.11286
+Sample 1B	NK	0.023
+Sample 1B	T Cells	0.10014
+Sample 1B	Monocytes	0.678
+Sample 1B	Neutrophils	0.051
+Sample 1B	B Cells	0.002
+Sample 1B	Dendritic	0.033
+Sample 1B	Unknown	0.11286
+Sample 2A	NK	0.033
+Sample 2A	T Cells	0.20138
+Sample 2A	Monocytes	0.329
+Sample 2A	Neutrophils	0.19
+Sample 2A	B Cells	0
+Sample 2A	Dendritic	0.026
+Sample 2A	Unknown	0.22062
+Sample 2B	NK	0.033
+Sample 2B	T Cells	0.20138
+Sample 2B	Monocytes	0.329
+Sample 2B	Neutrophils	0.19
+Sample 2B	B Cells	0
+Sample 2B	Dendritic	0.026
+Sample 2B	Unknown	0.22062
+Sample 3A	NK	0
+Sample 3A	T Cells	0.14789
+Sample 3A	Monocytes	0.001
+Sample 3A	Neutrophils	0.213
+Sample 3A	B Cells	0
+Sample 3A	Dendritic	0.017
+Sample 3A	Unknown	0.62111
+Sample 3B	NK	0
+Sample 3B	T Cells	0.14789
+Sample 3B	Monocytes	0.001
+Sample 3B	Neutrophils	0.213
+Sample 3B	B Cells	0
+Sample 3B	Dendritic	0.017
+Sample 3B	Unknown	0.62111
+Sample	Cell Type	Value
+A	B Cells	0.194
+A	Mono	0.194
+A	NK	0.194
+A	Neutrophils	0.03
+A	CD4 T Cells	0.194
+A	CD8 T Cells	0.194
+B	B Cells	0.194
+B	Mono	0.194
+B	NK	0.194
+B	Neutrophils	0.03
+B	CD4 T Cells	0.194
+B	CD8 T Cells	0.194
+C	B Cells	0.005
+C	Mono	0.01
+C	NK	0.051
+C	Neutrophils	0.004
+C	CD4 T Cells	0.828
+C	CD8 T Cells	0.102
+D	B Cells	0.005
+D	Mono	0.01
+D	NK	0.051
+D	Neutrophils	0.004
+D	CD4 T Cells	0.828
+D	CD8 T Cells	0.102
+E	B Cells	0.01
+E	Mono	0.026
+E	NK	0.104
+E	Neutrophils	0.008
+E	CD4 T Cells	0.005
+E	CD8 T Cells	0.846
+F	B Cells	0.027
+F	Mono	0.055
+F	NK	0.885
+F	Neutrophils	0.017
+F	CD4 T Cells	0.011
+F	CD8 T Cells	0.005
+G	B Cells	0.159
+G	Mono	0.319
+G	NK	0.016
+G	Neutrophils	0.395
+G	CD4 T Cells	0.08
+G	CD8 T Cells	0.032
+H	B Cells	0.1
+H	Mono	0.813
+H	NK	0.01
+H	Neutrophils	0.001
+H	CD4 T Cells	0.05
+H	CD8 T Cells	0.025
+I	B Cells	0.1
+I	Mono	0.813
+I	NK	0.01
+I	Neutrophils	0.001
+I	CD4 T Cells	0.05
+I	CD8 T Cells	0.025
+J	B Cells	0
+J	Mono	0
+J	NK	0
+J	Neutrophils	0
+J	CD4 T Cells	1
+J	CD8 T Cells	0
+K	B Cells	0
+K	Mono	0
+K	NK	0
+K	Neutrophils	0
+K	CD4 T Cells	0
+K	CD8 T Cells	1
+L	B Cells	0
+L	Mono	0
+L	NK	0
+L	Neutrophils	0
+L	CD4 T Cells	1
+L	CD8 T Cells	0
+Sample	Cell Type	Value
+HD30PBMC0	T Cells	0.514
+HD30PBMC0	Mono	0.155
+HD30PBMC0	B Cells	0.043
+HD30PBMC0	NK	0.178
+HD30PBMC0	Unknown	0.11
+HD30PBMC1	T Cells	0.457
+HD30PBMC1	Mono	0.214
+HD30PBMC1	B Cells	0.048
+HD30PBMC1	NK	0.168
+HD30PBMC1	Unknown	0.113
+HD30PBMC3	T Cells	0.58
+HD30PBMC3	Mono	0.153
+HD30PBMC3	B Cells	0.042
+HD30PBMC3	NK	0.148
+HD30PBMC3	Unknown	0.077
+HD30PBMC7	T Cells	0.578
+HD30PBMC7	Mono	0.135
+HD30PBMC7	B Cells	0.066
+HD30PBMC7	NK	0.132
+HD30PBMC7	Unknown	0.089
+HD31PBMC0	T Cells	0.59
+HD31PBMC0	Mono	0.181
+HD31PBMC0	B Cells	0.091
+HD31PBMC0	NK	0.045
+HD31PBMC0	Unknown	0.093
+HD31PBMC1	T Cells	0.623
+HD31PBMC1	Mono	0.17
+HD31PBMC1	B Cells	0.093
+HD31PBMC1	NK	0.034
+HD31PBMC1	Unknown	0.08
+HD31PBMC3	T Cells	0.654
+HD31PBMC3	Mono	0.175
+HD31PBMC3	B Cells	0.061
+HD31PBMC3	NK	0.049
+HD31PBMC3	Unknown	0.061
+HD31PBMC7	T Cells	0.636
+HD31PBMC7	Mono	0.144
+HD31PBMC7	B Cells	0.097
+HD31PBMC7	NK	0.036
+HD31PBMC7	Unknown	0.087
