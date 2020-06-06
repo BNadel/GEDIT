@@ -32,7 +32,7 @@ For advanced options, run the GEDIT.py script directly, followed by the R comman
 python scripts/GEDIT.py -mix mixtureFile.tsv -ref referenceFile.tsv -out outFile.tsv
                    (-NumSigs 50 -MinSigs 50 -SigMethod Entropy -RowScaling 0.0)
 
-This produces an R command, eg:
+This produces some intermediate files in scripts/scratch/, as well as an R command, eg:
 
 Rscript scripts/GLM_Decon.R /mnt/c/Users/brian/OneDrive/Desktop/GEDIT/FinalSoftware/GEDITv1.7/scripts/scratch/ImmuneCellMix.tsv_LM22.tsv_50_Entropy_0.2_ScaledMix.tsv /mnt/c/Users/brian/OneDrive/Desktop/GEDIT/FinalSoftware/GEDITv1.7/scripts/scratch/ImmuneCellMix.tsv_LM22.tsv_50_Entropy_0.2_ScaledRef.tsv examples/Outputs/ImmCM_Ref3_LM22.tsv
 
