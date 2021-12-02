@@ -1,0 +1,5 @@
+args = commandArgs(TRUE)
+Mat1 = read.table(args[1], header = TRUE, row.names =1, sep = "\t")
+Mat2 = read.table(args[2], header = TRUE, row.names =1, sep = "\t")
+Diff =mean(as.matrix(abs(Mat1-Mat2)))
+print(Diff)
