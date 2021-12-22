@@ -11,7 +11,10 @@ Application:
 
 
 GEDITv1.6:
-	This contains the most recent version of GEDIT
+	This contains a previous version of GEDIT, which runs preprocessing steps in python and the final linear regression in R
+	
+GEDITv2.0
+	This most recent version of GEDIT is streamlined to be run entirely in python2
 
 ReferenceMatrices:
         We have obtained or assembled 11 references matrices that are saved here and available for use by other parties
