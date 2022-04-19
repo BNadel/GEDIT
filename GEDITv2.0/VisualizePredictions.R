@@ -3,7 +3,6 @@ args = commandArgs(TRUE)
 
 library(gplots)
 library(RColorBrewer)
-library(glmnet)
 
 predictions = read.table(args[1], header = TRUE, row.names = 1, sep = "\t")
 numSamples = dim(predictions)[1]
