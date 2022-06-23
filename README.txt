@@ -18,12 +18,3 @@ GEDITv2.0
 
 ReferenceMatrices:
         We have obtained or assembled 11 references matrices that are saved here and available for use by other parties
-
-Synthetic Mixtures and Parameter Evaluation:
-	As detailed in figure 2 of the GEDIT manuscript, and in the supplementary materials,
-        the development of GEDIT involved the generation of 10,000 simulated mixtures that were used to tune several parameter settings.
-
-ToolsComparison:
-	This directory contains the scripts and data to run 4 deconvolution tools on 3 mixtures of known proportions.
- 	We did this with 4 possible choices of reference matrices in each case, and compared the quality of predictions.
-
