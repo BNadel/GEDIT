@@ -1,7 +1,0 @@
-naive_B_cell	memory_B_cell	CD14_positive_monocyte	CD16_positive_monocyte	CD56dim_natural_killer_cell	CD56bright_natural_killer_cell	neutrophil	CD4_positive_alpha_beta_T_cell	CD8_positive_alpha_beta_T_cell	macrophage_m0	macrophage_m1	macrophage_m2	MAST_cell	basophil	eosinophil	gamma_delta_T_cell	hematopoietic_progenitor	myeloid_dendritic_cell	plasma_cell	plasmacytoid_dendritic_cell
-ascites7873R1	0	0.0948	0.1395	0	0.1222	0	0.053	0.0807	0	0.1075	0	0.0743	0.1316	0	0.0726	0	0.0224	0.0665	0	0.035
-ascites7873R2	0	0.0921	0.145	0	0.1182	0	0.0614	0.0879	0	0.1344	0	0.1112	0.1119	0	0.0552	0	0.0041	0.0351	0	0.0437
-ascites7882R1	0	0.113	0.0377	0	0.1012	0	0.0615	0.0869	0	0.0692	0	0.102	0.17	0	0.0579	0	0.0574	0.074	0	0.0692
-ascites7882R2	0	0.1129	0.0498	0	0.0896	0	0.0576	0.0959	0	0.0655	0.0111	0.0811	0.1826	0	0.054	0	0.055	0.0765	0	0.0682
-ascites7892R1	0	0.1433	0	0	0.1046	0	0.1046	0.1186	0	0.0127	0	0.0728	0.1878	0	0.0566	0	0.0318	0.086	0	0.0811
-ascites7892R2	0	0.12	0.0105	0	0.0999	0	0.1045	0.1052	0	0.0287	0.024	0.062	0.2052	0	0.044	0	0.0418	0.0988	0	0.0554

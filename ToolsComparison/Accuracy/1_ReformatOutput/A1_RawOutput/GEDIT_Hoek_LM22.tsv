@@ -1,9 +1,0 @@
-B.cells.naive	B.cells.memory	Monocytes	NK.cells.resting	NK.cells.activated	Neutrophils	T.cells.CD4.naive	T.cells.CD4.memory.resting	T.cells.CD4.memory.activated	T.cells.CD8	Macrophages.M0	Macrophages.M1	Macrophages.M2	Mast.cells.resting	Mast.cells.activated	Plasma.cells	T.cells.follicular.helper	T.cells.regulatory..Tregs.	T.cells.gamma.delta	Dendritic.cells.resting	Dendritic.cells.activated	Eosinophils
-HD30PBMC0	0	0	0.3905	0.1925	0	0.0103	0.1299	0.0724	0	0.1314	0	0.0036	0.029	0	0	0	0	0.0404	0	0	0	0
-HD30PBMC1	0	0	0.439	0.1932	0.002	0.0138	0.1345	0.0505	0	0.0769	0	0.018	0.0266	0	0	0	0	0.0455	0	0	0	0
-HD30PBMC3	0	0	0.3408	0.1645	0	0.0122	0.1583	0.0983	0	0.1444	0	0.001	0.0265	0	0	0	0	0.0541	0	0	0	0
-HD30PBMC7	0	0.013	0.2959	0.158	0	0.0152	0.1596	0.1021	0	0.1703	0	0	0.034	0	0	0	0	0.052	0	0	0	0
-HD31PBMC0	0.0064	0.0086	0.3874	0.0691	0	0.0629	0.1245	0.1328	0	0.1478	0	0.0116	0.0058	0	0	0	0	0.0414	0	0	0	0.0015
-HD31PBMC1	0.0089	0.0131	0.375	0.0498	0	0.0386	0.14	0.1619	0	0.1373	0	0.007	0.0141	0	0	0	0	0.045	0	0	0	0.0093
-HD31PBMC3	0	0	0.4004	0.0519	0	0.0313	0.1385	0.1576	0	0.1591	0	0	0.0124	0	0	0	0	0.0488	0	0	0	0
-HD31PBMC7	0	8e-04	0.3508	0.0717	0	0.0353	0.1309	0.1714	0	0.1698	0	0.0011	0.0176	0	0	0	4e-04	0.0502	0	0	0	0

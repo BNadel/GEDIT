@@ -1,1 +1,0 @@
-The scripts and files to run the tools are in Tools/. The predictions are written to Output/. Analysis scripts and figure generation is done in Accuracy/. Time Comparison corresponds to the analysis in the supplementary figures of running time of the 4 tools run locally.
