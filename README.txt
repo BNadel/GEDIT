@@ -13,7 +13,7 @@ Application:
 GEDITv1.6:
 	This contains a previous version of GEDIT, which runs preprocessing steps in python and the final linear regression in R
 	
-GEDITv2.0
+GEDITv2.1
 	This most recent version of GEDIT is streamlined to be run entirely in python2
 
 ReferenceMatrices:
