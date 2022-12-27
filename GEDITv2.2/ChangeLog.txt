@@ -1,0 +1,98 @@
+Changes from 2.1 to 2.2
+
+The tool will now run on machines that do not have the statistics package installed, so long as the z-score signature gene selection method is not selected
+
+Specifically, the "import statistics" command in "getSigGenesModal.py" was moved into the portion of code that runs if the "Zscore" signature; this is the only part of the code that uses statistics, anyway
+
+------------------------
+Changes from 2.0 to 2.1
+
+README was outdated, I have updated
+
+Added dendrogram = "none" to VisualizePredictions.R, such that it no longer throws a warning
+
+using the argument --out will now redirect the output to the indicated file; previously this only worked with --outFile, now it works with either
+
+the unused function "genScores" has been removed from getSigGenesModal.py. The
+work this function used to do had been migrated to other functions several versions ago
+
+the argument -saveFiles now defaults to writing the signature gene matrix to
+the same location as the predictions matrix. Specifying --SaveFiles none will
+cancel this, whereas specifying --SaveFiles all will also write the 
+
+
+------------------------------------------------------------------
+changes in 1.7
+
+handle input argsToDict function:
+	added try except clause to deal with cases like:
+	    python GEDIT.py -mix FileA.txt -ref FileB.txt -out
+	where an error was caused previously looking past bounds of arglist
+
+added EasyRun.sh script for easy usage, and edited readme and sample commands
+
+created scripts/ subdirectory, and moved all python and R scripts there
+	goal is to keep main directory clean to avoid user
+	confusion/overwhelming
+
+------------------------------------------------------------
+changes in 1.6
+
+HandleInput Line 92:
+	caused error when elements of row are float instead of string; added inline
+	list converting each element to string, needs to be tested.
+	Perhaps also be better to exclude, run anyway and throw warning?
+
+Made change so that GLMDECON works on (including 1)
+	May want to double check for V1.7
+
+Now allows the user to specify output file using -out
+
+Will now work when run from any directory
+---------------------------------------------------------------------------
+Changes in 1.5 
+
+normmix and ref outputted include all genes, including those not shared
+
+Include genes that have 0 expression in all mixtures
+-----------------------------------------------------------------------------
+Changes in 1.4
+
+Matrix Tools:
+   line 32 was:    labelled2[i] = [py_mat1[i][0]] + labelled2[i]
+   corrected to:   labelled2[i] = [py_targetMat[i][0]] + labelled2[i]
+
+Make parameter input of form -ref ___ -mix ___ ...
+	Made changes to HandleInput to do this
+        Also changes to top of GEDIT
+
+Numpy Scientific notation bug
+	fixed by converting numpy mat to python mat before adding labels back (matrix tools line 26 - 32)
+
+better if the heatmap is flipped the other way?
+done
+
+Add output of signature genes, labelled by tissue
+      special signature mode for non-split genes (1.4 at earliest)
+
+output file should have top left corner filled
+
+test robustness of input with/without top left corner?
+
+
+----------------------------------------------------------------
+Changes in 1.3
+
+Make parameter input of form -ref ___ -mix ___ ...
+
+Add output of signature genes, labelled by tissue
+       special signature mode for non-split genes (1.4 at earliest)
+
+output file should have top left corner filled
+
+test robustness of input with/without top left corner?
+
+when Tenx immune ran with sample mix, get error re can't interpret 9.999e^x as a float
+
+better if the heatmap is flipped the other way?
+

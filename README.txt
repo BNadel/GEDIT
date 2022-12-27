@@ -1,20 +1,12 @@
-Author: Brian Nadel
+This repository contains:
 
+GEDITv2.2:			The latest version of GEDIT that runs on python2
 
-The data and scripts here represent the 
+GEDITv3.0:			The latest version of GEDIT that runs on python3
 
-Contents are as follows
+ReferenceMatrices:	A set of reference matrices that can be used with the tool when applying to novel data
 
-Application:
-	As detailed in the GEDIT paper, we have applied GEDIT to tissue samples taken in vivo in 3 contexts.
-        These are a) the GTEX database b) the mouse body atlas and c) a set of skin samples from humans with various skin diseases
+ExampleMixtures:		Two sample mixture matrix files. ImmuneCellMix.tsv is a SkinDiseases.tsv represents expression data collected from 
 
-
-GEDITv1.6:
-	This contains a previous version of GEDIT, which runs preprocessing steps in python and the final linear regression in R
-	
-GEDITv2.1
-	This most recent version of GEDIT is streamlined to be run entirely in python2
-
-ReferenceMatrices:
-        We have obtained or assembled 11 references matrices that are saved here and available for use by other parties
+To keep the download size small, additional elements have been moved to a separate repository:
+. These include previous versions of GEDIT, application examples presented in the paper, and the large ImmGen reference matrix for mouse
